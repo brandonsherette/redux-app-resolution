@@ -1,6 +1,6 @@
 {
   "name": "redux-app-resolution",
-  "version": "0.0.1",
+  "version": "0.0.2-rc1",
   "description": "Redux App Resolution",
   "main": "dist/redux-app-resolution.js",
   "scripts": {

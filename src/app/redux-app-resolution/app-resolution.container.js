@@ -26,7 +26,8 @@ class AppResolution extends Component {
 
     if (!isOpen) { return null; }
 
-    return (
+    return null;
+    /*return (
       <div className="app-resolution-wrapper">
         <div className="mask"></div>
         <div className="app-resolution">
@@ -43,7 +44,7 @@ class AppResolution extends Component {
           )}
         </div>
       </div>
-    );
+    );*/
   }
 }
 

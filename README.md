@@ -3,5 +3,8 @@ Lets your application know what resolution the browser is in. Useful for when ce
 when screen changes resolution or at a certain resolution.
 
 ## Versions
+**v0.0.2-rc1**
+- For now removed  warning html.
+
 **v0.0.1**
 - Initial Setup
